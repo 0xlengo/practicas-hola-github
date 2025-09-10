@@ -8,7 +8,7 @@ Este es un repo para conocer sobre GitHub!
 | Lengo         |            |
 | Maxi          |            |
 | Natali        |            |
-| Ignacio       |            |
+| Ignacio       | 18         |
 | Carola        |            |
 
 ## Aprendimos a usar:
