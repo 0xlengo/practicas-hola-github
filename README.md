@@ -7,7 +7,7 @@ Este es un repo para conocer sobre GitHub!
 | ------------- | ---------- |
 | Lengo         |            |
 | Maxi          |            |
-| Natali        |            |
+| Natali        | 18         |
 | Ignacio       | 18         |
 | Carola        |            |
 
