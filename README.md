@@ -5,7 +5,7 @@ Este es un repo para conocer sobre GitHub!
 
 | Alumnos       | Edad       |
 | ------------- | ---------- |
-| Lengo         |            |
+| Lengo         | 38         |
 | Maxi          |            |
 | Natali        | 18         |
 | Ignacio       | 18         |
