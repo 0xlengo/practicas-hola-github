@@ -4,7 +4,7 @@ Este es un repo para conocer sobre GitHub!
 ## Ya hicieron check in 👇
 
 | Alumnos       | Edad       |
-| ------------- | ---------- |guut
+| ------------- | ---------- |
 | Lengo         |            |
 | Maxi          |            |
 | Natali        | 18         |
