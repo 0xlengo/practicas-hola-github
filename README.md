@@ -10,6 +10,7 @@ Este es un repo para conocer sobre GitHub!
 | Natali        | 18         |
 | Ignacio       | 18         |
 | Carola        |            |
+| Tomás         | 19         |
 
 ## Aprendimos a usar:
 ```
