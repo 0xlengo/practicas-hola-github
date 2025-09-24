@@ -11,6 +11,7 @@ Este es un repo para conocer sobre GitHub!
 | Ignacio       | 18         |
 | Carola        |            |
 | Tomás         | 19         |
+| Matias        | 19         |
 
 ## Aprendimos a usar:
 ```
