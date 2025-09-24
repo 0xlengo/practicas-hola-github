@@ -9,7 +9,9 @@ Este es un repo para conocer sobre GitHub!
 | Maxi          |            |
 | Natali        | 18         |
 | Ignacio       | 18         |
-| Carola        |            |
+| Carola        | 18         |
+| Juan          | 18         |
+| Ismael        | 18         |
 | Tomás         | 19         |
 
 ## Aprendimos a usar:
